@@ -1,6 +1,6 @@
 # Cloud Computing
 
-**Cloud Computing** practice repository — cloud infrastructure tasks (AWS / Azure).
+**Cloud Computing** practice repository — cloud infrastructure tasks (AWS).
 
 ## Contents
 
